@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59d08bd1-6b9d-401e-8656-2c97ceaa4b90" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Campeons.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Habilidades.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Regiones.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/MovimientoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/CampeonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/ObjetoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/HabilidadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/PokemonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/RegionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Article.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Magazine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Movimiento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Campeon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Objeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Habilidad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Region.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/PokemonMovimiento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/view/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Movimiento.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Objeto.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Pokemon.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dr3OmHzddWw49ztoEvtcbPwRQL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/run/media/macnacka/4A6FB8BB54551170/Proyectos java/HibernatePokemon/src/main/resources",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="HibernatePokemon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="HibernatePokemon" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59d08bd1-6b9d-401e-8656-2c97ceaa4b90" name="Changes" comment="" />
+      <created>1710752339807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710752339807</updated>
+    </task>
+    <servers />
+  </component>
+</project>
